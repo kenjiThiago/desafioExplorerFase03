@@ -1,6 +1,6 @@
 # Projeto Frontend
 
-![Página Inicial]()
+![Página Inicial](https://github.com/kenjiThiago/desafioExplorerFase03/blob/main/imagens/PaginaInicial.png)
 
 ## Tecnologias
 - Javascript
